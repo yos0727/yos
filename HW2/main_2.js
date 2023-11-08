@@ -33,8 +33,7 @@ let layout_bar = {
     margin:{
         t:50
     },
-    barmode : "stack",
-    title : ""
+    barmode : "stack"
 };
 
 Plotly.newPlot(myGraph_bar, data_bar, layout_bar);

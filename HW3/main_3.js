@@ -79,6 +79,6 @@ let layout_pie = {
     grid:{
         rows:2,
         columns:2
-    }
+    },
 };
 Plotly.newPlot(myGraph_pie,data_pie,layout_pie);

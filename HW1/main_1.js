@@ -80,7 +80,7 @@ let layout_line = {
     yaxis:{
         range:[0,2000000]
     },
-    title:'Scatter & Line',
+    title:'總統副總統選舉投票統計',
     updatemenus:[
         {
             y:1.2,

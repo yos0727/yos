@@ -75,12 +75,11 @@ let layout_line = {
         t:50
     },
     xaxis:{
-        range:[0,4]
+        range:[90,110]
     },
     yaxis:{
         range:[0,2000000]
     },
-    title:'總統副總統選舉投票統計',
     updatemenus:[
         {
             y:1.2,
